@@ -1,7 +1,7 @@
 import pickle
 import socket
 import threading
-from game_01 import Game
+from game import Game
 
 # Can change PORT, but make sure to change it on the client side also.
 PORT = 7777
