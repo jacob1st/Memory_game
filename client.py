@@ -1,5 +1,5 @@
 import pygame
-from network_01 import Network
+from network import Network
 
 def write(display, font, font_size, position, message, color):
     # Take in some qualities of a message and prints it.
