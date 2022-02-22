@@ -10,7 +10,7 @@ This was made to practice more socket programming in python, as well as continui
 To play just hover over cards on your turn and press space. Turns are indicated on the top left of the screen.
 Try to pick two matching cards to get a point. If you make a match you can go again.
 
-(game.py is a file that holds a class it is not the actual script to run the game. The server.py file will need to be running and then run client.py to play)
+To play the game, /Game/server.py must be running. Then, each player should run /Game/client.py for themselves to play.
 
 I watched Tech With Time's rock paper scissors tutorial, which was very helpful for this project!
 https://www.youtube.com/watch?v=_fx7FQ3SP0U&list=PLzMcBGfZo4-kR7Rh-7JCVDN8lm3Utumvq
