@@ -7,7 +7,8 @@ A memory game that can be played over the internet
 A classic card game where you and someone else take turns flipping over cards and trying to remember what they are.
 This was made to practice more socket programming in python, as well as continuing to use pygame.
 
-To play just hover over cards on your turn and press space. Turns are indicated on the top left of the screen.
+Instructions:
+Just hover over cards on your turn and press space. Turns are indicated on the top left of the screen.
 Try to pick two matching cards to get a point. If you make a match you can go again.
 
 To play the game, /Game/server.py must be running. Then, each player should run /Game/client.py for themselves to play.
