@@ -11,7 +11,9 @@ Instructions:
 Just hover over cards on your turn and press space. Turns are indicated on the top left of the screen.
 Try to pick two matching cards to get a point. If you make a match you can go again.
 
-To play the game, /Game/server.py must be running. Then, each player should run /Game/client.py for themselves to play.
+To play the game:
+Edit /Game/server.py and /Game/network.py files to include your private ip address. Instructions will be written in the individual files. 
+/Game/server.py must be running. Then, each player should run /Game/client.py for themselves to play.
 
 I watched Tech With Time's rock paper scissors tutorial, which was very helpful for this project!
 https://www.youtube.com/watch?v=_fx7FQ3SP0U&list=PLzMcBGfZo4-kR7Rh-7JCVDN8lm3Utumvq
