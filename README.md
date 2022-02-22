@@ -1,7 +1,8 @@
 # Memory_game
 A memory game that can be played over the internet
 
-![in_game_image](https://github.com/jacob1st/Memory_game/blob/main/in_game_img.PNG)
+![in_game_image](https://github.com/jacob1st/Memory_game/blob/main/Images/in_game_img.PNG)
+![waiting_image](https://github.com/jacob1st/Memory_game/blob/main/Images/waiting_img.PNG)
 ----
 A classic card game where you and someone else take turns flipping over cards and trying to remember what they are.
 This was made to practice more socket programming in python, as well as continuing to use pygame.
